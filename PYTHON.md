@@ -6,3 +6,4 @@
 print("Hello World!")
 ```
 
+![自由女神](PYTHON.assets/自由女神.jpg)
